@@ -1,0 +1,61 @@
+.main {
+	background-image: url(../images/background.jpg);
+	height: 1074px;
+	max-width: 100%;
+	max-height: 100%;
+	margin:0;
+	padding:0;
+	border: 0;
+
+}
+
+ul.nav {
+
+	margin-left: 0;
+	padding-left: 0;
+	list-style: none;
+	border-bottom: 2px solid #bebebe;
+	border-bottom-width: 100%;
+	text-align: center;
+	padding: 40px;
+}
+
+.nav li {
+	display:inline;
+}
+
+.nav a {
+	display: inline-block;
+	text-decoration: none ;
+	color: 	#bebebe;
+	width: 200px;
+	font-family: Arial;
+	font-size: 25px;
+}
+
+.nav a:hover {
+	transform: scale(1.2);
+}
+
+.logo {
+	margin-left:0;
+	padding-left:0;
+	width: 100%;
+}
+
+
+.lable {
+	text-align: center;
+	color: #bebebe;
+	font-family: Arial;
+	font-size: 40px;
+}
+
+.scroll {
+	text-align: center;
+	color: #bebebe;
+	font-family: Arial;
+	font-size: 20px;
+	position: relative;
+	top: 100px;
+}
