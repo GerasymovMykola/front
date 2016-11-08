@@ -51,6 +51,10 @@ ul.nav {
 	font-size: 40px;
 }
 
+.lable a p{
+	text-decoration: none;
+}
+
 .scroll {
 	text-align: center;
 	color: #bebebe;
