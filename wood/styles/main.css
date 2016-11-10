@@ -6,7 +6,6 @@
 	margin:0;
 	padding:0;
 	border: 0;
-
 }
 
 ul.nav {
@@ -62,4 +61,74 @@ ul.nav {
 	font-size: 20px;
 	position: relative;
 	top: 100px;
+}
+
+.aboutme {
+	height: 1074px;
+	max-width: 100%;
+	max-height: 100%;
+	margin:0;
+	padding:0;
+	border: 0;
+}
+
+
+
+.myphoto{
+	margin:0;
+	padding: 70px 50px 20px 65px;
+	width: 48%;
+	float: left;
+}
+
+.about {
+	
+	display: inline-block;
+	width: 40%;
+	padding-top: 100px;
+} 
+
+.about-title {
+	font-family: Calibri Light;
+	font-size: 45px;
+}
+
+.about-text {
+	font-family: Calibri Light;
+	font-weight: 10px;
+	font-size: 20px;
+	line-height: 200%;
+}
+
+.about-bottom {
+	display: inline-block;
+	margin-top: 30px;
+	margin-bottom: 70px;
+	font-family: Bradley Hand ITC;
+	font-size: 20px;
+	line-height: 200%;
+}
+
+
+.portfolio {
+	height: 1074px;
+	max-width: 100%;
+	max-height: 100%;
+	margin:0;
+	padding:0;
+	border: 0;
+
+	background-image: url(../images/portfolio-background.jpg);
+
+}
+
+.porfolio-logo {
+	text-align: center;
+	color: #bebebe;
+	font-family: Arial;
+	font-size: 40px;
+}
+
+.contact {
+	height: 1074px;
 }
