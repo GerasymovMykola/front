@@ -107,6 +107,7 @@ ul.nav {
 	font-family: Bradley Hand ITC;
 	font-size: 20px;
 	line-height: 200%;
+	font-weight: bolder;
 }
 
 
@@ -131,4 +132,55 @@ ul.nav {
 
 .contact {
 	height: 1074px;
+}
+
+.portfolioimg {
+	text-align: center;
+	padding-top: 20px;
+}
+
+.portfolioimg img {
+	margin:0;
+	border:0;
+	padding:5px;
+	width: 18%;
+
+}
+
+.portfolio .scroll {
+	margin-top: 50px;
+}
+
+.portfolio img:hover {
+	transform: scale(1.2);
+}
+
+
+.contacttext {
+	margin-top: 150px;
+	text-align: center;
+	font-family: Ebrima;
+}
+
+.contactlogo {
+	margin:0;
+	padding:0;
+	border:0;
+	font-size: 30px;
+	font-weight: bolder;
+	line-height: 250%;
+}
+
+.contactvar{
+	text-decoration: none; 
+	margin:0;
+	padding:0;
+	border:0;
+	font-size: 50px;
+	color: black;
+
+}
+
+.socialicons a img {
+	padding:15px;
 }
